@@ -1,3 +1,10 @@
+//PURPOSE OF PROGRAM: This program checks if a graph is bipartite. It uses two different algorithms to confirm if a graph is Bi-partite or not.
+// The two algorithms used here are BFS (Breadth First Search) and DFS (Depth First Search) to assess if an input graph is Bi-partite.
+
+//PROGRAMMER:   OSABHIE EBENEZER FERGUSON;
+//COURSE NUMBER: CSCI 7432
+//PROGRAMMING ASSIGNMENT NO.: 3;
+//DATE: MARCH 15TH 2022;
 
 import java.util.*;
 import java.lang.*;
