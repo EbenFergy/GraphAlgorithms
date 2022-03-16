@@ -1,5 +1,4 @@
-//PURPOSE OF PROGRAM: This program checks if a graph is bipartite. It uses two different algorithms to confirm if a graph is Bi-partite or not.
-// The two algorithms used here are BFS (Breadth First Search) and DFS (Depth First Search) to assess if an input graph is Bi-partite.
+//PURPOSE OF PROGRAM: This program is used to create an adjacency matrix for a graph.
 
 //PROGRAMMER:   OSABHIE EBENEZER FERGUSON;
 //COURSE NUMBER: CSCI 7432
